@@ -1,0 +1,23 @@
+{
+  "name": "reversingstring",
+  "version": "1.0.0",
+  "description": "reverse a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashir56/reverse-string-npm.git"
+  },
+  "keywords": [
+    "RS"
+  ],
+  "author": "Ashir Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashir56/reverse-string-npm/issues"
+  },
+  "homepage": "https://github.com/Ashir56/reverse-string-npm#readme",
+  "dependencies": {}
+}
